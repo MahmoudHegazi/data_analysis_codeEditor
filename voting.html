@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<body>
+
+<form id="votForm" action="{{url_for('makeVote')}}" method = "post" >
+<input id="inpu" class="vote_class" type="checkbox" name="user_like"><span>Like</span>
+
+<input class="vote_class" type="checkbox" name="user_dislike"><span>Dislike</span>
+<br /><br />
+<input type="submit" value="submit" style="cursor:pointer;">
+</form>
+
+</body>
+</html>
