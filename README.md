@@ -3,7 +3,7 @@ This Project Contains my  Editor (NoCode Editor) + and Small use of data analysi
 
 ## Note In order the app to work
 please after clone the project create new dir called my project and inside it
-create another dircotry called templates and add inside it .html file (voting.html, editor.html)
+create another dircotry called templates and add inside it .html files (voting.html, editor.html)
 
 
 ## screenshot:
